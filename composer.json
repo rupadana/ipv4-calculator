@@ -1,9 +1,9 @@
 {
-  "name": "markrogoyski/ipv4-subnet-calculator",
+  "name": "rupadana/ipv4-calculator",
   "type": "library",
   "description": "Network calculator for subnet mask and other classless (CIDR) network information.",
   "keywords": ["ipv4", "subnet", "calculator", "network", "cidr", "address", "ip"],
-  "homepage": "https://github.com/markrogoyski/ipv4-subnet-calculator-php",
+  "homepage": "https://github.com/rupadana/ipv4-calculator",
   "require": {
     "php": ">=7.2.0"
   },
